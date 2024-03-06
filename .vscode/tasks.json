@@ -1,0 +1,23 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "gradle",
+			"id": "c:\\Dam\\Git-Flowapp:testapp",
+			"script": "app:test",
+			"description": "Runs the test suite.",
+			"group": "verification",
+			"project": "app",
+			"buildFile": "C:\\Dam\\Git-Flow\\app\\build.gradle",
+			"rootProject": "Gitit",
+			"projectFolder": "c:\\Dam\\Git-Flow",
+			"workspaceFolder": "c:\\Dam\\Git-Flow",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: app:test"
+		}
+	]
+}
