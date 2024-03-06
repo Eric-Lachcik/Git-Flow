@@ -13,6 +13,6 @@ class AppTest {
     }
     @Test void sumaCorrecta(){
         App classUnderTest = new App();
-        assertEquals(7, classUnderTest.sumar(3, 2));
+        assertEquals(8, classUnderTest.sumar(3, 2));
     }
 }
